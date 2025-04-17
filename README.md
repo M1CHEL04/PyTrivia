@@ -56,4 +56,4 @@ deactivate
 
 ### 📄 __Documentación adicional:__
 
-- 📥 [Ver informe de accesibilidad](./informe_accesibilidad.docx)
+- 📥 [Ver informe de accesibilidad](./Informe_accesibilidad.docx)
